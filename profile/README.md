@@ -56,8 +56,7 @@ Aivoo operates from state-of-the-art facilities in Bangladesh, serving a growing
 ### Contact Information
 * **Email:** [info@aivoo.app](mailto:info@aivoo.app)
 * **Phone:** +8801994130720
-
-**Follow Our Journey:** LinkedIn | Facebook | X (Twitter) | Instagram | YouTube
+**Follow Our Journey:** [LinkedIn](https://www.linkedin.com/company/aivoo-app) | [Facebook](https://www.facebook.com/aivoo.app) | [X](https://x.com/aivoo) | [Instagram](https://www.instagram.com/aivoo.app) | [YouTube](https://www.youtube.com/@aivoo)
 
 ---
 *© 2026 Aivoo. All rights reserved.*
