@@ -1,7 +1,7 @@
 # Aivoo: Intelligence in Motion
 
 > **Official Website:** [www.aivoo.app](https://www.aivoo.app)  
-> **Founded:** 2020  
+> **Founded:** 2022  
 > **Headquarters:** Dhaka, Bangladesh  
 > **Slogan:** Intelligence in Motion
 
